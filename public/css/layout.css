@@ -1,0 +1,17 @@
+div.image {
+  width: 600px;
+}
+
+div.test {
+  text-align: center;
+}
+
+div.image img {
+  display: inline-block;
+}
+
+div.image p.credits {
+  right: 60px;
+  bottom: 60px;
+  position: relative;
+}
